@@ -1,0 +1,12 @@
+*.json linguist-detectable=false
+
+node_modules/* linguist-vendored  
+
+src/**/*.ts linguist-detectable
+
+*.woff binary
+
+*.svg text
+*.gif binary
+public/index.html linguist-vendored
+*.min.js linguist-generated
